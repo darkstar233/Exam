@@ -27,5 +27,4 @@ def check_user():
 
 # 主程序
 clear_screen()
-
 print("欢迎来到练习考试系统！")
