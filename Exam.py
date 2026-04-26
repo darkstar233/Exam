@@ -20,10 +20,6 @@ def delay(i):
 
     time.sleep(i)
 
-# 检查用户
-def check_user():
-    
-
 
 # 主程序
 clear_screen()
